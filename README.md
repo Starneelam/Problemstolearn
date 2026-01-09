@@ -12,9 +12,10 @@ sum of digits of a number  <br>
 sum of even numbers in a number  <br>
 sum of odd numners in a number  <br>
 2 patterns square and triangle  <br>
+2 more pattern problems
 
 
-to ne completed
+to be completed
 
 palindrome number <br>
 patterns <br>
