@@ -13,6 +13,7 @@ sum of even numbers in a number  <br>
 sum of odd numners in a number  <br>
 2 patterns square and triangle  <br>
 2 more pattern problems
+right a proper notes of all these things 
 
 
 to be completed
